@@ -1,0 +1,147 @@
+1:Hol található a csarnokvíz?:a pályaudvaron:a szemben:a tejcsarnokban:barlangfürdőben:B:BIOLÓGIA
+2:Mi indul Rideg Sándor regényének címében?:a banzáj:a bakterház:a mandula:a verseny:B:FILM
+3:Melyik madarat nevezi a néphit vészmadárnak?:a seregélyt:a verebet:a kuvikot:a feketerigót:C:NYELV
+4:Melyik Európa legmagasabb működő vulkánja?:Stromboli:Hekla:Szantorini:Etna:D:FÖLDRAJZ
+5:Melyik volt Koncz Zsuzsa első önálló nagy slágere?:Szőke Anni balladája:Rohan az idő:Színes ceruzák:Kis virág:A:ZENE
+6:Kik hordták eredetileg az anorákot?:a serpák:az eszkimók:a lappok:a nyenyecek:B:TÖRTÉNELEM
+1:Melyik járműről elnevezett együttes tagja volt Zorán a 60-as években?:Villamos:HÉV:Autóbusz:Metró:D:ZENE
+2:Hogyan vágtatott a Tisza Petőfi verse szerint?:mint a megvadult bika:mint a forgószél:mint az őrült, ki letépte láncát:mint a menekülő, kit kerget a tatár:C:IRODALOM
+3:Mivel foglalkozik az, akinek az ikebana a hobbija?:keleti küzdősporttal:virágokkal:papírhajtogatással:japán kakasokkal:B:ÁLTALÁNOS
+4:Hány játékos van egyszerre a pályán egy kosárlabda-csapatból?:négy:hét:hat:öt:D:SPORT
+5:Kiknek az érdekeit képviseli az UNICEF?:szakszervezetek:gyerekek:állatvédők:dolgozók:B:ÁLTALÁNOS
+6:Hogyan nevezték kedveskedve a homlokba hulló kis fodor női hajfürtöt?:huncutka:mucika:pöndörke:tekercske:A:ÁLTALÁNOS
+7:Milyen egységben mérik a hang rezgésszámát?:tonban:decibelben:hertzben:luxban:C:TUDOMÁNY
+8:Milyen nőt ábrázol Munkácsy ismert, 1873-as képe?:korsóvívő:bordóruhás:rőzsehordó:gyermekét tartó:C:KÉPZŐMŰVÉSZET
+9:Mi volt a neve George Stephenson első mozdonyának?:George:Mylord:Rocket:Locomotive:B:TECHNIKA
+10:Ki volt a gyermekorvostan első tanára hazánkban?:id. Bókay János:Heim Pál:Schöpf-Mérei Ágoston:Korányi Sándor:A:BIOLÓGIA
+1:Hogy nevezzük másképpen a kárókatonát?:obsitos:treff bubi:bölönbika:kormorán:D:BIOLÓGIA
+2:Melyik futballistát nevezik "Fekete gyöngyszem"-nek?:Thuramot:Pelét:Eusebiót:Andy Cole-t:B:SPORT
+3:La Fontaine, Aiszóposz, Fáy András, Heltai Gáspár. Mi köti össze ezt a négy szerzőt?:a születési helyük:a vallásuk:a szerelmük:az állatmesék:D:ÁLTALÁNOS
+4:Melyik magyar várost nevezik a "vizek városának"?:Siófok:Tata:Szeged:Debrecen:B:MAGYARORSZÁG
+5:Mi volt a neve Paulina szerelmének, Carlitos édesapjának a Paula és Paulina című sorozatban?:Paulinho:Carlos Daniel:Rodrigo:Zorro:B:ÁLTALÁNOS
+6:Milyen része egy ruhának a zsabó?:hímzett zseb:csipkés mellfodor:keményített ingujj:csipkés gallér:B:ÁLTALÁNOS
+7:Apostol szavunk a görög "aposztolosz" szóból származik. Mi a szó eredeti jelentése?:tanítvány:küldött:pásztor:kőszikla:B:NYELV
+1:Hol sütik már a rántott békát?:Kovácséknál:Vargáéknál:Virágéknál:Gólyáéknál:C:IRODALOM
+2:Az alábbi szavak közül melyiket írtuk helytelenül?:sóhaj:talaj:fogoj:zsivaj:C:NYELV
+3:Az alábbi ételek közül melyikbe nem kell burgonya?:sztrapacska:szilvás gombóc:túrógombóc:gránátos kocka:C:KONYHA
+4:Milyen állat a Fekete István történetéből ismert Lutra?:hód:vidra:cickány:tengerimalac:B:IRODALOM
+5:Melyik híres popsztár slágerei voltak a "Bad" illetve a "Black Or White"?:Michael Jackson:Rod Stewart:George Michael:Elton John:A:ZENE
+6:Hol mossa a lepedőjét Ágnes asszony Arany János balladájában?:a patakban:a kútnál:a Tiszában:a teknőben:A:IRODALOM
+7:Hol használták régen az édesvízi piócák egyes fajait?:a növénynemesítéseknél:a harcászatban:a gyógyászatban:a szakácsművészetben:C:BIOLÓGIA
+8:Hogyan jutok hozzá valamihez, ha egy barter során szerzem meg?:pályázaton:sokoldalú alku után:rövid lejáratú kölcsönnel:cserével:D:ÁLTALÁNOS
+9:Kinek a nevéhez fűződik a Züzü-sorozat?:Csók István:Paál László:Pór Bertalan:Szőnyi István:A:KÉPZŐMŰVÉSZET
+10:Ki minden idők legfiatalabb wimbledoni férfi teniszbajnoka?:Pete Sampras:Björn Borg:Stefan Edberg:Boris Becker:D:SPORT
+11:Az alábbi ismert énekesek közül ki játszotta saját magát Sándor Pál Ripacsok című filmjében?:Szörényi Levente:Somló Tamás:Zorán:Vikidál Gyula:C:FILM
+1:Hogyan győzte le Dávid Góliátot?:Szkanderben lenyomta:Dárdájával eltalálta:Elgáncsolta:Parittyával leterítette:D:VALLÁS
+2:Mi a neve a hím szamárnak?:kan:mén:ünő:csődör:D:BIOLÓGIA
+3:Mi történik a mimóza levelével, ha megérintjük?:elporlad:szétnyílik:összecsukódik:festékanyagot spriccel:C:BIOLÓGIA
+4:Az alábbiak közül ki a Fehérlófia című népmese szereplője?:Bokorugró:Fanyűvő:Fűvágó:Fenyődöntő:B:IRODALOM
+5:Ki az a híres amerikai kosárlabda-játékos, aki az RTL Klub Zsoldosok című sorozatában szerepel?:Jordan:Barkley:Rodman:Pippen:C:SPORT
+6:Mivel foglalkozott idősebb Rubik Ernő?:űrkutatással:repülőgép-építéssel:játékgyártással:gépkocsigyártással:B:TECHNIKA
+7:Milyen színű lesz a lakmuszpapír sav hatására?:sárga:zöld:vörös:kék:C:TUDOMÁNY
+1:Mit csinál a mondás szerint, aki "igába hajtja a fejét"?:elválik:tehenet fej:megnősül:ekét tesztel:C:NYELV
+2:Az alábbiak közül melyik nem marhahús?:bélszín:dagadó:rostélyos:felsál:B:KONYHA
+3:Miket láthatunk egy skanzenben?:éremgyűjteményeket:tömegközlekedési eszközöket:falusi epületeket:operaelőadásokat:C:ÁLTALÁNOS
+4:Mivel játsszák a marokkó nevű játékot?:kockákkal:kártyával:pálcikákkal:dominóval:C:JÁTÉK
+5:Ki komponálta a West Side Story című musical zenéjét?:George Gershwin:Leonard Bernstein:Maurice Ravel:Nino Rota:B:ZENE
+6:Hol építettek hidat az angol hadifoglyok David Lean filmjében?:túl messze:a Zambézin:a Kwai folyón:a Szakvenen:C:FILM
+7:Hogyan nevezték a kozák katonai parancsnokot?:kelevéz:atamán:atanáz:ottomán:B:TÖRTÉNELEM
+8:Melyik az a ruhaipari anyag, amelyet fiatal kecske bőréből készítenek?:sevró:szatén:velúr:nubuk:A:BIOLÓGIA
+1:Az alábbiak közül melyik egy sütemény neve?:anyósnyelv:nőiszeszély:pletyka:nőiszirom:B:KONYHA
+2:Melyik országot nevezték a Nílus ajándékának?:Asszíriát:Egyiptomot:Kínát:Mezopotámiát:B:TÖRTÉNELEM
+3:Milyen lapot mutat fel a játékvezető a labdarúgásban kiállításkor?:rózsaszínt:sárgát:pirosat:feketét:C:SPORT
+4:Melyik szoros szabályozásának tervét készítette Vásárhelyi Pál?:Bering:Vaskapu:Thermopülai:Gibraltári:B:TECHNIKA
+5:Melyik ország vallási és politikai vezetője volt Komeini ajatollah?:Jordánia:Irán:Irak:Szaúd-Arábia:B:TÖRTÉNELEM
+6:Az autó melyik alkatrészét találta fel Bánki Donát és Csonka János?:a fékbetétet:a sebességváltót:a lengéscsillapítót:a porlasztót:D:TECHNIKA
+7:Ki tervezte a barcelonai Sagrada Família katedrálist?:Fernán Cabailero:Le Corbusier:Walter Gropius:Antonio Gaudi:D:TECHNIKA
+8:Mi volt az egri Líceum Spekula nevű épülete?:kaszinó:kereskedőház:csillagvizsgáló:könyvtár:C:ÁLTALÁNOS
+9:Mi a neve a jó tanulónak Karinthy Tanár úr kérem című művében?:Wasserkopf:Fröhlich:Steinmann:Bauer:C:IRODALOM
+1:Melyik nem a francia kártya színe?:pikk:káró:tök:treff:C:JÁTÉK
+2:Miért szorítja meg ujjunkat egy újszülött csecsemő?:így kér enni:a fogóreflex miatt:szorít értünk:hogy figyeljünk rá:B:BIOLÓGIA
+3:Milyen ruhadarabot visel, aki neglizsében van?:hálóköntöst:térdnadrágot:kiskosztümöt:lábszárvédőt:A:ÁLTALÁNOS
+4:Melyik konyhakerti növényt termesztik ehető virágzatáért?:retek:zeller:karfiol:fejes káposzta:C:KONYHA
+5:Melyik városban lötték le John Lennont?:Los Angelesben:Londonban:New Yorkban:Liverpoolban:C:ZENE
+6:Mivel keltette életre teremtményét dr. Frankenstein az eredeti történetben?:klónozással:csókkal:mágneses indukcióval:elektromossággal:D:IRODALOM
+7:Melyik város része Hollywood, a "film fővárosa"?:Los Angeles:Las Vegas:New York:Detroit:A:FILM
+8:Melyik egy finnugor nép neve?:szamojéd:szingaléz:alemann:méd:A:NYELV
+9:Mit neveznek a Kecskemét környéki nyelvjárásban garabónak?:egy téli pulóvert:egy füles kosarat:a gólyát:a jól tanuló diákot:B:NYELV
+10:Melyik országban található a Szent András-törésvonal?:Ausztrália:USA:Mexikó:Kanada:B:FÖLDRAJZ
+11:Melyik irodalmi újság indult 1916-ban?:Kelet Népe:Nyugat:Ma:Pesti Hírlap:C:IRODALOM
+12:Milyen gyártású gőzmozdonyok közlekedtek az első magyar gőzüzemű vasútvonalon?:angol:német:amerikai:belga:D:TECHNIKA
+1:"Mennyit ér" az értéktelen árú?:egy krajcárt:egy fabugyellárist sem:egy lepedőt:egy fabatkát sem:D:ÁLTALÁNOS
+2:Az egyik magyar népmesében égig ér a paszuly. Milyen növény ez a valóságban?:jegenye:bab:gaz:borsó:B:BIOLÓGIA
+3:Melyik testrészünk csontjai: a kalapács, az üllő és a kengyel?:a láb:a kéz:a váll:a fül:D:BIOLÓGIA
+4:Hol találták fel a hőmérséklet-változásokra érzéketlen üveget?:Müchenben:Weimarban:Jénában:Herenden:C:TECHNIKA
+5:Mi a sörbet?:barnasör-fajta:sörtészta:sós sörkorcsolya:édes gyümölcslé:D:KONYHA
+6:Hogyan tájékozódnak éjszaka a denevérek?:ultrahanggal:karmaikkal:szárnyaikkal:faroktollaikkal:A:BIOLÓGIA
+7:Milyen különleges képet készít a Nobel-díjas Gábor Dénes találmánya?:digitális képet:hologramot:piktogramot:gyorsfényképet:B:TECHNIKA
+8:Az alábbiak közül ki nem számít gyalogosnak a KRESZ szerint?:aki kerékpárt tol:aki segédmotoros kerékpárt tol:aki talicskát tol:aki állatokat terel:D:ÁLTALÁNOS
+1:Mi történik annak az embernek az állával, aki éhen marad?:leesik:felkopik:megrándul:borostás lesz:B:ÁLTALÁNOS
+2:Az alábbi "tejtermékek" közül melyik növénynév?:bikatej:kántortúró:bikavaj:papsajt:D:BIOLÓGIA
+3:Hol rendezték a gladiátorjátékokat az ókori rómaiak?:amforában:agorán:amfiteátrumban:termában:C:TÖRTÉNELEM
+4:Az alábbiak közül melyik mű fűződik Széchenyi István nevéhez?:A vadászebekrűl:A lovakrul:A szarvasmarhákrul:A kétfejű sasrul:B:TÖRTÉNELEM
+5:Mi Albánia pénzneme?:leva:lej:lek:lwei:C:ORSZÁGOK
+6:Kinek a nevéhez fűződik a mondás: "A kocka el van vetve"?:Szókratész:Thalész:Julius Caesar:Rubik Ernő:C:ÁLTALÁNOS
+7:Minek a tárolására szolgált a butélia?:dohány:pálinka:fűszer:tinta:B:ÁLTALÁNOS
+8:Milyen stílusban épült az esztergomi főszékesegyház?:barokk:neoromán:neoreneszánsz:klasszicista:D:ÉPÍTÉSZET
+9:Mit jelent az imát lezáró "ámen" szó?:vége:az Úrhoz:mindörökké:úgy legyen:D:NYELV
+10:Minek a rövidítése az MTK?:Magyar Testnevelési Klub:Magyar Testgyakorlók Köre:Magyar Torna Klub:Magyar Tornászok Köre:B:SPORT
+11:Melyik ország nem határos Brazíliával?:Ecuador:Guyana:Paraguyay:Bolívia:A:ORSZÁGOK
+12:Hol játszódik Bernstein "West Side Story" című musicalje?:San Franciscoban:Los Angelesben:New Yorkban:Londonban:C:ZENE
+1:"Mit csinálj" a sörrel a Fonográf együttes slágerének címe szerint?:Döntsd be!:Lökd ide!:Fizesd ki!:Küld le!:B:ZENE
+2:Hogy nevezik az ajtókeret felső, vízszintes fáját?:homlokfa:szófa:szemöldökfa:kapufa:C:ÁLTALÁNOS
+3:Hogyan kapcsolódik az igazságszolgáltatáshoz a talár?:a bírói kalapács neve:bűntetőeszköz volt:a bírói palást neve:ügyvédi pecsét neve:C:ÁLTALÁNOS
+4:Mire használják az ázsiai népek a dzsunkát?:rizspálinka főzésére:hajózásra:selyemszövésre:petárda készítésére:B:ÁLTALÁNOS
+5:Mivel tartósítanak a kandírozás során?:sóval:ecettel:cukorral:szesszel:C:KONYHA
+6:Kinek a felesége volt Andrássy Katinka, a "vörös grófnő"?:Andrássy Gyula:Tisza Kálmán:Károlyi Mihály:Eötvös József:C:TÖRTÉNELEM
+7:Melyik színház igazgatója volt Major Tamás?:Madách Színház:Nemzeti Színház:Vígszínház:Pesti Színház:B:SZÍNHÁZ
+8:Milyen növény a borbolya?:moha:fenyőféle:páfrány:gombaféle:B:BIOLÓGIA
+1:A közhiedelem szerint hol puhították őseink a húst?:nyereg alatt:kerék alatt:patkó alatt:sós kútban:A:TÖRTÉNELEM
+2:Kik hordták a pártát?:a feleségek:a hajadonok:az özvegyek:a menyecskék:B:ÁLTALÁNOS
+3:Melyik ércből állítják elő az alumíniumot?:rézből:bauxitból:vasércből:nikkelből:B:TECHNIKA
+4:Milyen tavasz szerepel a Karády Katalin főszereplésével készült film címében?:záporos:végzetes:halálos:bolondos:C:FILM
+5:Melyik Verdi-operában hangzik el "Az asszony ingatag" kezdetű ária?:Otello:Don Carlos:Rigoletto:Traviata:C:OPERA
+6:Az előlények milyen képessége a mimikri?:szárazságtűrés:fényenergia-átalakítás:szín- és alakutánzás:szaganyag-felismerés:C:BIOLÓGIA
+7:Hogyan nevezik a bíborosok pápaválasztó gyűlését?:konvent:konkordátum:kongregáció:konklávé:D:VALLÁS
+8:Ki játszotta János vitézt Kacsóh Pongrác daljátékának bemutatóján?:Sárdy János:Fedák Sári:Blaha Lujza:Ujházi Ede:D:SZÍNHÁZ
+9:A KRESZ szerint mekkora sebességgel közlekedhet a segédmotoros kerékpár a kerékpárúton?:legfeljebb 15 km/óra:legfeljebb 30 km/óra:legfeljebb 20 km/óra:legfeljebb 10 km/óra:C:ÁLTALÁNOS
+10:Melyik volt az Illés együttes első nagylemeze?:Illések és pofonok:Add a kezed!:Nehéz az út:Ne sírjatok lányok!:C:ZENE
+1:Milyen "kamrában" dolgoznak a fényképészek?:éles:élés:sötét:komor:C:ÁLTALÁNOS
+2:Melyik állat neve egyezik meg egy nyakban hordott női ruhadarab nevével?:nandu:boa:alpaka:naja:B:ÁLTALÁNOS
+3:Melyik mai állam területén éltek az aztékok?:Guatemala:Peru:Kolumbia:Mexikó:D:TÖRTÉNELEM
+4:Az alábbiak közül melyiket nevezik kotlettnek?:a serdülő csirkét:a könnyűvérű hölgyet:a kotnyeles lettet:a sertéskarajt:D:NYELV
+5:Kik készítettek először szakócát?:a favágó céh inasai:az ősemberek:a bakonyi betyárok:az apacsok:B:TÖRTÉNELEM
+6:Ki kerül közelebbi kapcsolatba a tizennégy karátos autóval a Rejtő-regényben?:Gorcsev Iván:Fülig Jimmy:Tuskó Hopkins:az igazi Trebitsch:A:IRODALOM
+7:Melyik sportágban volt élvonalbeli versenyző Karinthy Ferenc, a kitűnő író?:vízilabdában:labdarúgásban:teniszben:atlétikában:A:SPORT
+8:Kinek a palotája volt a mitológia szerint a Valhalla?:Morrigan:Krisna:Odin:Ozirisz:C:VALLÁS
+9:Melyik országnak van a legtöbb szomszédja?:Oroszország:Kína:Szudán:Brazília:A:ORSZÁGOK
+1:Mit kiáltott Arkhimédész a fürdőkádból kiugorva, mikor rájött híres törvényére?:Demokrácia!:Olimpia!:Anarchia!:Heuréka!:D:TUDOMÁNY
+2:A Beatles-együttes melyik tagja viselt szemüveget?:John Lennon:Paul McCartney:George Harrison:Ringo Starr:A:ZENE
+3:Az alábbiak közül melyikből készítik a sóletet?:zöldborsó:lencse:szárazbab:sárgaborsó:C:KONYHA
+4:Mit neveztek spanyolcsizmának?:a torreádorok cipőjét:nemesi lábbelit:borkészítő eszközt:vallatóeszközt:D:NYELV
+5:Melyik országot nem érinti a Duna?:Bulgáriát:Szlovéniát:Horvátországot:Szlovákiát:B:FÖLDRAJZ
+1:Milyen volt a híres magyar kulacs?:kutyaszőrös:bőregeres:csikóbőrös:tehéntőgyes:C:ÁLTALÁNOS
+2:Milyen fényképezési eljárás során készül el a fénykép egy-két perc alatt?:polarográfia:polaroid:tomográfia:polder:B:TECHNIKA
+3:Melyen nevű orosz katonától búcsúzik a Pa-Dö-Dö együttes?:Vlagyimír:Iván:Szása:Szergej:C:ZENE
+4:Melyik állat vált Berlin jelképévé?:a bika:a medve:a kenguru:az oroszlán:B:ÁLTALÁNOS
+5:Melyik versben szerepel a "sehonnai bitang ember"?:Himnusz:Nemzeti dal:Szózat:Pató Pál úr:B:IRODALOM
+6:Melyik neves család épített kastélyt Fertődön?:Batthyány:Széchenyi:Esterházy:Rákóczi:C:MAGYARORSZÁG
+7:Milyen tulajdonság jellemez egy konjunktúralovagot?:hűséges:gáncs nélküli:ügyeskedő:lovagiatlan:C:NYELV
+8:Az alábbi ételek közül melyiket nevezik "gömböcnek"?:a disznósajtot:a májas hurkát:a kecskesajtot:a rozscipót:A:KONYHA
+9:Az alábbiak közül melyik a helytelen írásmód?:díszszázad:nagygyűlés:kulcscsont:észszerű:D:NYELV
+10:Mi volt a neve annak a hajónak, amely fedélzetére vette a Titanic túlélőit?:Eritrea:Carpathia:Lusitania:Aurora:B:ÁLTALÁNOS
+11:Melyik ország területén található a Kalahári-sivatag?:Botswana:Namíbia:Zimbabwe:Dél-afrikai Köztársaság:A:FÖLDRAJZ
+12:Miről kapta a nevét a rottweiler kutyafajta?:egy juhfajtáról:egy színről:egy város nevéről:egy tenyésztő nevéről:C:NYELV
+1:Az alábbiak közül melyik nem növénynév?:áfonya:galagonya:tarhonya:burgonya:C:BIOLÓGIA
+2:Honnan ered az akupunktúra mint gyógymód?:Kínából:Indiából:Japánból:Egyiptomból:A:BIOLÓGIA
+3:Melyik énekesnő játszotta az "Evita" című film címszerepét?:Diana Ross:Whitney Houston:Gloria Estefan:Madonna:D:FILM
+4:Zömmel milyen építészeti stílusban épült Jákon a bencés apátság temploma?:gótikus:román:reneszánsz:barokk:B:ÉPÍTÉSZET
+5:Melyik madár tud hátrafelé is repülni?:gólya:sas:galamb:kolibri:D:BIOLÓGIA
+6:Ki alakítja Esmeraldát a népszerű sorozatban?:Leticia Calderón:Lucelia Santos:Salma Hayek:Imelda Marcos:A:ÁLTALÁNOS
+7:Ki zenésítette meg a Szózatot?:Erkel Ferenc:Mosonyi Mihály:Egressy Béni:Liszt Ferenc:C:OPERA
+8:"Itt a kezem, nem disznóláb!" - szól a mondás. Mit neveztek akkoriban disznólábnak?:fegyvert:sertéscombot:vándorbotot:kesztyűt:A:NYELV
+1:Melyik budapesti hegyen nem lehet síelni?:a Ferihegyen:a János-hegyen:a Hármashatár-hegyen:a Széchenyi-hegyen:A:ÁLTALÁNOS
+2:Mire használják a keleti népek a kaftánt?:lószerszámként:fejfedőként:vízipipaként:kabátként:D:NYELV
+3:Az alábbiak közül milyen alapszínű lehet a levelibéka?:sárga:fehér:zöld:fekete:C:BIOLÓGIA
+4:Az alábbiak közül melyik országban nem a frank a hivatalos pénznem?:Franciaország:Luxemburg:Hollandia:Andorra:C:ORSZÁGOK
+5:Melyik ehető részéért termesztik a brokkolit?:a száráért:a leveléért:a virágzatáért:a gyökértörzséért:C:KONYHA
